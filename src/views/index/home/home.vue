@@ -29,7 +29,7 @@ export default {
     return{
       imgs:[
         "https://dummyimage.com/600x100",
-        "https://dummyimage.com/100x100",
+        "https://dummyimage.com/600x100",
         "https://dummyimage.com/100x100"
       ],
       list:[]
